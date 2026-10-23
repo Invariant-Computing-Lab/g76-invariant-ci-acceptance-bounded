@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "gate": "syntax",
+      "status": "PASS"
+    },
+    {
+      "gate": "fixture",
+      "status": "PASS"
+    }
+  ]
+}
